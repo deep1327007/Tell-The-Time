@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tell-The-Time/static/css/main.9ef22058.css",
+    "main.js": "/Tell-The-Time/static/js/main.d5a5de77.js",
+    "index.html": "/Tell-The-Time/index.html",
+    "main.9ef22058.css.map": "/Tell-The-Time/static/css/main.9ef22058.css.map",
+    "main.d5a5de77.js.map": "/Tell-The-Time/static/js/main.d5a5de77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ef22058.css",
+    "static/js/main.d5a5de77.js"
+  ]
+}
